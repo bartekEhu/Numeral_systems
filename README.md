@@ -28,9 +28,7 @@ I plan to add things such as:
 - add comments to the interface.py
 
 ## Screens
-<p align="center">
-	<img width="40%" src="./Readme_images/game.jpg">
-</p>
+
 
 ## License
 This project is licensed under the terms of **the MIT license**.
