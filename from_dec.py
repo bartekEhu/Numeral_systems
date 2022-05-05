@@ -12,8 +12,7 @@ switch_from_dec = {
         15: 'F',
     }
 
-#################################################################################dziesietna na binarna########################################################################################
-
+# zamiana liczby dziesietnej na binarna
 
 def dec_to_bin(liczba_dec):
     #deklaracja wartosci poczatkaowych zmiennych - wartosc potegi i liczby binarnej
@@ -52,8 +51,7 @@ def dec_to_bin(liczba_dec):
     #zwrocenie liczby binarnej
     return liczba_bin, liczba_bin_str
 
-############################################################################dziesietna na szesnastkowa##############################################################################################
-
+# zamiana liczby dziesietnej na binarna na szesnastkowa
 
 
 def dec_to_heks (liczba_dec):
@@ -101,9 +99,7 @@ def dec_to_heks (liczba_dec):
     #zwrocenie liczby w systemie szesnatskowym
     return liczba_heks, liczba_heks_str
 
-######################################################################################dziesietna na osemkowy####################################################################################
-
-
+# zamiana liczby dziesietnej na binarna na osemkowy
 
 def dec_to_oct(liczba_dec):
     liczba_oct = []
