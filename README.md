@@ -1,4 +1,4 @@
-# NUMERICAL SYSTEMS CALCULATOR
+# NUMERAL SYSTEMS CALCULATOR
  
 The aplication was created in Python with use of PySide6 and was made to learn and practice basic programming skills.
 
