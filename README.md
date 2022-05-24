@@ -17,6 +17,8 @@ The application is capable of detecting where data has been entered and then con
 
 ## Screens
 
+The first image shows the program running, the second shows the information about wrong data input, the third image shows the situation when the user wants to close the application.
+
 <p align="center">
 	<img width="32%" src="./readme_screens/normal_state.png">
  <img width="32%" src="./readme_screens/fail.png">
